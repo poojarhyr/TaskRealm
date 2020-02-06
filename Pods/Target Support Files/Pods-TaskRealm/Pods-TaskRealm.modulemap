@@ -1,0 +1,6 @@
+module Pods_TaskRealm {
+  umbrella header "Pods-TaskRealm-umbrella.h"
+
+  export *
+  module * { export * }
+}
